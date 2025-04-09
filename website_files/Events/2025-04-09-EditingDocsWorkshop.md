@@ -14,3 +14,4 @@ This workshop, run as part of the [The International Meeting of the STACK Commun
 
 * [**Chris Sangwin**](mailto:C.J.Sangwin@ed.ac.uk) - University of Edinburgh, UK
 * [**Matti Harjula**](mailto:matti.harjula@aalto.fi) - Aalto University, Finland
+* [**Ruth Reynolds**](mailto:ruth.reynolds@ucl.ac.uk) - University College London
